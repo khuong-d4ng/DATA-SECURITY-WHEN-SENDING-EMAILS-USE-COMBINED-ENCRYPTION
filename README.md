@@ -1,3 +1,13 @@
+<div align="center">
+
+<p align="center">
+   <img src="docs/images/logo.png" alt="DaiNam University Logo" width="200"/>
+</p>
+
+[![DaiNam University](https://img.shields.io/badge/DaiNam%20University-red?style=for-the-badge)](https://dainam.edu.vn)
+
+</div>
+
 # 🔐 Secure Email Transmission System
 
 A robust cryptographic solution for secure email transmission using hybrid encryption combining RSA and AES algorithms. This system ensures data confidentiality, integrity, and authenticity when sending sensitive email content.

@@ -215,9 +215,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For questions, issues, or contributions:
-- 🐛 Report bugs via [GitHub Issues](https://github.com/yourusername/secure-email-transmission/issues)
-- 💬 Join discussions in [GitHub Discussions](https://github.com/yourusername/secure-email-transmission/discussions)
-- 📧 Contact: your.email@example.com
+- 📧 Contact: khuongdang.pham04@gmail.com
 
 ---
 
